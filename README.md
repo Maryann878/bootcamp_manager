@@ -36,7 +36,7 @@ MaryAnn Nwagor Frontend Developer | Cybersecurity Enthusiast
 🔧 How to Run
 Clone this repository:
 
-git clone https://github.com/yourusername/bootcamp-manager-python.git
+git clone https://github.com/maryann878/bootcamp-manager-python.git
 
 
 
